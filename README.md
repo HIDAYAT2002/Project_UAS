@@ -13,8 +13,8 @@
 **Membuat  Checklist Kebersihan Toilet**<br>
 
 |username :| admin  |
-|password : | admin |
 | --- | --- |
+|password : | admin |
 |link demo : | https://checklisttoilet.000webhostapp.com/ |
 |link youtube : | https://youtu.be/AXICRxo5m8U |
 
