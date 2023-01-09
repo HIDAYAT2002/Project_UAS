@@ -11,13 +11,12 @@
 # Tugas Project Ujian Akhir Semester
 
 **Membuat  Checklist Kebersihan Toilet**<br>
-
-<hr>
 <hr>username : admin
-password : admin<hr>
+password : admin
 
 link demo : https://checklisttoilet.000webhostapp.com/
 link youtube : https://youtu.be/AXICRxo5m8U
+<hr>
 
 
 
