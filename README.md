@@ -17,6 +17,7 @@
 |password : | admin |
 |link demo : | https://checklisttoilet.000webhostapp.com/ |
 |link youtube : | https://youtu.be/AXICRxo5m8U |
+| link drive laporan : https://drive.google.com/file/d/1KXrxbji6thtQteoFJ79NRTFBmTkLJT7i/view?usp=sharing |
 
 
 
