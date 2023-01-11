@@ -15,7 +15,7 @@
 |username :| admin  |
 | --- | --- |
 |password : | admin |
-|link Web HOSTING DEMO : | https://checklisttoilet.000webhostapp.com/ |
+|link Web HOSTING DEMO : | https://checklisttoilet.000webhostapp.com/login.php |
 |link youtube : | https://youtu.be/AXICRxo5m8U |
 | link drive pdf laporan : | https://drive.google.com/file/d/1KXrxbji6thtQteoFJ79NRTFBmTkLJT7i/view?usp=sharing |
 
